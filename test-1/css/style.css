@@ -1,0 +1,117 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f7f7f7;
+}
+
+header {
+  background: rgb(210, 200, 200);
+  padding: 1.3em;
+}
+
+main {
+  padding: 1em;
+}
+
+.emotion {
+  width: 100vw;
+  height: 100vh;
+  padding: 0 2em;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  font-size: 4vw;
+}
+
+.dreamy {
+  font-family: 'Dancing Script', cursive;
+}
+
+.angry {
+  font-family: 'Bangers', cursive;
+}
+
+.soft {
+  font-family: 'Poiret One', cursive;
+}
+
+.gangster {
+  font-family: 'Rock Salt', cursive;
+}
+
+.chaos {
+  font-family: 'Barriecito', cursive;
+}
+
+.normal {
+  font-family: 'Rufina', serif;
+}
+
+.scary {
+  font-family: 'Creepster', cursive;
+  color: rgb(16, 199, 16);
+}
+
+.blocky {
+  font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+.surprised {
+  font-family: 'Londrina Sketch', cursive;
+}
+
+.red {
+  color: rgb(155, 26, 26);
+}
+
+.purple {
+  color: rgb(75, 22, 75);
+}
+
+.smoll {
+  font-size: 2vw;
+}
+
+.big {
+  font-size: 1.5em;
+}
+
+#sentence {
+  margin-top: 10%;
+  position: relative;
+  height: 50vh;
+  width: 100vw;
+  background: black;
+}
+
+#sentence h1 {
+  color: white;
+  margin: 1em 0 0 1em;
+}
+
+#sentence img {
+  margin: 0 auto;
+  display: block;
+  width: 60%;
+  height: auto;
+}
+
+#sentence h2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  color: white;
+}
+
+footer {
+  background: rgb(210, 200, 200);
+  padding: 1.3em;
+  text-align: center;
+}
