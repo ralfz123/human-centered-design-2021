@@ -10,7 +10,7 @@ html {
   --color-background: #120928;
   --color-background-2: linear-gradient(150deg, #121522, #063358 50%);
 
-  --max-content-width: 70rem;
+  --max-content-width: 80rem;
 
   --font-body: 'Poppins', sans-serif;
 
@@ -52,18 +52,27 @@ body {
   text-align: center;
 }
 
-header {
+h1 {
   font-size: 3rem;
+  color: #063358;
 }
+
 main {
-  background: var(--color-background-2);
-  background: #161515;
+  background-color: #063358;
 }
+
+/* ------------------------------------------- */
+/*                  TEXT SECTION               */
+/* ------------------------------------------- */
 
 main section {
   width: 100%;
   height: 100vh;
-  padding: 0 2em;
+  padding: 1em;
+}
+
+main#test {
+    background-color: transparent;
 }
 
 main section img:first-child {
@@ -78,8 +87,9 @@ main section div {
   justify-content: center;
   align-items: center;
   background: rgb(83, 83, 83);
-  /* height: 80px; */
   padding: 0.3em;
+  width: 90%;
+  margin: 0 auto;
 }
 
 main section div h2,
@@ -95,4 +105,67 @@ main section div h2 {
 
 main section div img {
   width: 120px;
+}
+
+/* explanation */
+
+main section#explanation {
+  text-align: left;
+  width: 100%;
+  height: 55vh;
+}
+
+main section#explanation h2 {
+  font-size: 3rem;
+}
+
+main section#explanation p,
+main section#explanation p span {
+  font-size: 1.2rem;
+  width: 20em;
+}
+
+main section#explanation p span {
+  background: rgba(0, 0, 0, 0.158);
+}
+
+main section#explanation a {
+  text-decoration: none;
+  display: block;
+  font-size: 2.5rem;
+  margin-top: 1em;
+  width: 10em;
+  transition: 0.2s;
+  border: 1px solid transparent;
+  background: #1670b9;
+  color: #063358;
+  padding: 0.3rem;
+}
+
+main section#explanation a:hover,
+main section#explanation a:focus,
+main section#explanation a:active {
+  background: #063358;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+}
+
+main section#explanation a:after {
+  content: '🎬';
+  position: relative;
+  opacity: 0;
+  transition: all 0.2s;
+}
+
+main section#explanation a:hover:after,
+main section#explanation a:focus:after,
+main section#explanation a:active:after {
+  opacity: 1;
+}
+
+/* Footer */
+
+footer p,
+footer p a {
+  color: #000000;
 }
