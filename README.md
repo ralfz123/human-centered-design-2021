@@ -4,7 +4,7 @@
 # Closed Captions 👂 ❌
 _Human Centered Design, a course of the minor Web Design & Development. It is a minor of the third year from the study [CMD](https://www.cmd-amsterdam.nl/)._
 
-[Link to live version :rocket: :fire:](staticsite.com)
+[Link to live version :rocket:](https://ralfz123.github.io/human-centered-design-2021/final/)
 
 ### Table of Contents
 <table>
