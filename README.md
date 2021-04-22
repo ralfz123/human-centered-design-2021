@@ -1,199 +1,122 @@
-[Live link test-1](https://ralfz123.github.io/human-centered-design-2021/test-1/)
+##### Human Centered Design @cmda-minor-web 2020 - 2021
 
-# Human Centered Design @cmda-minor-web 2021
-//Interactie ontwerpen: Rapid prototypen en testen met echte mensen
+![Badge stating project is licensed under MIT license](https://img.shields.io/github/license/ralfz123/human-centered-design-2021) ![Badge stating amount of issues open](https://img.shields.io/github/issues/ralfz123/human-centered-design-2021) [![](https://img.shields.io/badge/site--status-up-success)](https://ralfz123.github.io/human-centered-design-2021) [![Badges via shields.io](https://img.shields.io/badge/badges%20via-shields.io-brightgreen)](shields.io)
+# Closed Captions 👂 ❌
+_Human Centered Design, a course of the minor Web Design & Development. It is a minor of the third year from the study [CMD](https://www.cmd-amsterdam.nl/)._
 
-Human Centered Design is een  methode voor het ontwerpen van gebruiksvriendelijke interactieve toepassingen. 
+[Link to live version :rocket: :fire:](staticsite.com)
 
+### Table of Contents
+<table>
+    <tr>
+        <td align="center"><a href="#rocket-purpose">🚀 Purpose<a></td>
+        <td align="center"><a href="#heart_eyes-concept">😍 Concept<a></td>
+        <td align="center"><a href="#nerd_face-techstuff">🤓 TechStuff<a></td>
+        <td align="center"><a href="#lipstick-codestyle">🤓 CodeStyle<a></td>
+        <td align="center"><a href="#1234-data">🔢 Data<a></td>
+        <td align="center"><a href="#gear-installation">⚙️ Installation<a></td>
+        <td align="center"><a href="#file_folder-sources">📁 Sources<a></td>
+        <td align="center"><a href="#cop-license">👮 License<a></td>
+    </tr> 
+</table>
+
+## :rocket: Purpose
 > What distinguishes Human-Centered Design from other problem-solving approaches is its obsessive focus on understanding the perspective of the person who experiences a problem, their needs, and whether the solution that has been designed for them is truly meeting their needs effectively or not. At its most effective, the very people who experience a problem the most are a constant part of the design process and when possible, become part of the design team itself. - [What Is Human-Centered Design?](https://medium.com/dc-design/what-is-human-centered-design-6711c09e2779)
 
 Door regelmatig te testen met je doelgroep kom je tot een beter en passend ontwerp. Een Frontend Designer en Developer heeft verstand van techniek, UX en design. Als je web technieken beheerst kun je je ideeën snel prototypen en testen in een browser. Je kan dan aanpassingen doorvoeren, uitproberen en weer testen ...
 
 In het vak Human Centered Design gaan we dingen ontwerpen voor echte mensen. Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? Wat voor principes heb je gebruikt en getest? En is het leuk?
 
-
-## Opdracht
-
-### Ontwerpen met en voor echte mensen
-
 Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een echt mens. Je moet je ontwerp 3 keer testen. Door te testen en te itereren ga je je ontwerp verbeteren. Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 persoon. Een _exclusive design_ ... Wie is deze persoon dan voor wie je dit gaat maken? Wat vindt deze persoon leuk of juist niet? En hoe bedient deze persoon een computer?
 
-- [Opdracht - Ontwerpen met en voor echte mensen](course/Opdracht1.md)
+## :heart_eyes: Concept
+- Closed Captions 
+- image Darice
 
+_Check [here](https://github.com/ralfz123/human-centered-design-2021/wiki) for the whole testrapport._
 
-### Leerdoelen
+<img src="" alt="Screenshot of app" width=700px />
 
-- _Leren hoe je (design) principles in een ontwerp kan toepassen._
-- _User needs begrijpen en gebruiken in je ontwerp._
-- _Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp._
+#### Features
+ - lorem
+ - Fully experience
 
-[Rubric](https://docs.google.com/spreadsheets/d/1no32c9YyAP78VMcqfA5i5at2OrxP9ce1d8dVGnii4Vs/)
 
+## :nerd_face: TechStuff
+This app is built, using:
+- Plain HTML
+- Plain CSS
+- Plain JS
 
 
-## Planning & programma
+## :lipstick: CodeStyle
+I prefer to work with these dev-rules for myself:
+- Use of semicolon at the end of the line
+- Spaces: 2
+- Code comments
+    - param explanation of functions
+    - inline code comments after variable declaration
+- naming of variables and functions has to be descriptive
+- ES6 modules
 
-| Planning  | Woensdag  |  Donderdag | Vrijdag  |
-|---|---|---|---|
-| [Week 1](#week-1)  | Intro, College inclusive design + Testen | Gastcollege + Testen | ~~Feedbackgesprekken~~ |
-| [Week 2](#week-2)  | College over testen + Testen  | Gastcollege + Testen | Feedbackgesprekken  |
-| [Week 3](#week-3)  | College + Testen  |  Gastcollege + Testen | Feedbackgesprekken  |
-| [Week 4](#week-4)  | Presentaties + Beoordelingsgesprekken | Beoordelingsgesprekken | Beoordelingsgesprekken + Weekly Nerd |
+# :1234: Data
+### API is
+Video/trailer: [Powerless](https://www.google.com/search?q=powerless+movie&oq=powerless&aqs=chrome.0.69i59j69i57j69i61l3.1500j0j7&sourceid=chrome&ie=UTF-8)
+VTT file: 
+source vtt file:
 
+### VTT File structure
 
+```js
+{
+    lorem
+}
+```
 
-### Week 1
-Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Je kan dan al een kleine interactieve demo maken om te testen.
+## :gear: Installation
+1. Clone the repository:  
+```
+git clone https://github.com/ralfz123/human-centered-design-2021.git
+```
 
+2. Install dependencies   
+```
+npm install
+```
 
-#### Woensdag 7 april
-Woensdag is de eerste les van het vak Human Centered Design. Je krijgt een intro college over het vak en Vasilis gaat vertellen over _Exclusive Design_.
+3. To run the app   
+```
+npm run start
+```
 
-Daarna prototypen en testen
+4. To run the app in developer mode (with nodemon)
+```
+npm run dev
+```
+5. Go to [localhost](http://localhost:5000/) in the browser and voilà :sparkles:
+```
+http://localhost:5000/
+```
 
-- test Team 
-- test Team 
-- test Team 
+## To-Do's :pencil:
+<details>
+<summary>Expand</summary>
 
-#### Donderdag 8 april
-Donderdag begint de les met een gastcollege. 
+#### App:
 
-Daarna prototypen en testen
+#### Code:
 
-- test Team 
-- test Team 
-- test Team 
+#### Readme:
 
-Deze les gaan we onderstaande artikelen bespreken:
-- [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/)
+#### Backlog
 
 
+</details>
 
-#### Vrijdag 9 april
-Deze dag is voor Real-Time web...
+## :file_folder: Sources
+Credits to [Vasilis](https://www.vasilis.nl/) && [Koop Reynders](https://github.com/KoopReynders) for giving interesting lectures about Human Centered Design and how to deal with it.
 
-### Week 2
-Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten? 
 
-
-
-#### Woensdag 14 april
-Woensdag krijg je een college over testen.
-
-Daarna prototypen en testen
-
-- test Team 
-- test Team 
-- test Team 
-
-Deze les gaan we dit artikel bespreken:
-- [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
-
-
-
-#### Donderdag 15 april
-Donderdag begint de les met een gastcollege. 
-
-Daarna prototypen en testen
-
-- test Team 
-- test Team 
-- test Team 
-
-
-Deze les gaan we dit artikel bespreken:
-- [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/)
--  [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/)
-
-
-#### Vrijdag 16 april
-Vrijdag zijn er coachgesprekken.
-
-
-
-
-
-
-### Week 3
-In week 3 gaan we verder met testen, itereren en reflecteren. Woensdag is de laatste sessie met je mens. 
-
-
-#### Woensdag 21 april
-Woensdag beginnen we met een college. Dan gaan we twee artikelen bespreken.
-
-Daarna prototypen en testen
-
-- test Team 
-- test Team 
-- test Team 
-
-
-Deze les gaan we dit artikel bespreken:
-- [Design for Fingers, Touch, and People van Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
-
-
-
-
-#### Donderdag 22 april
-Donderdag begint de les met een gastcollege.
-
-
-Daarna prototypen en testen
-
-- test Team 
-- test Team 
-- test Team 
-
-
-Daarna prototypen en testen
-
-- test Team 
-- test Team 
-- test Team 
-
-Deze les gaan we dit artikel bespreken:
-- [Designing for Interaction Modes van Andrew Grimes](https://alistapart.com/article/designing-for-interaction-modes/)
-
-
-
-#### Vrijdag 23 april
-Vrijdag zijn er coachgesprekken.
-
-
-
-
-### Week 4
-
-Deze week hebben we een gesprek waarin we je vorderingen en bevindingen bespreken. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de leerdoelen van het vak. 
-
-
-#### Woensdag 28 april
-Teampresentaties en beoordelingsgesprekken. 
-
-#### Donderdag 29 april
-Beoordelingsgesprekken
-
-#### Vrijdag 30 april
-Beoordelingsgesprekken + Weekly Nerd
-
-
-
-
-
-<!-- Add a link to your live demo in Github Pages 🌐-->
-
-<!-- ☝️ replace this description with a description of your own work -->
-
-<!-- replace the code in the /docs folder with your own, so you can showcase your work with GitHub Pages 🌍 -->
-
-<!-- Add a nice poster image here at the end of the week, showing off your shiny frontend 📸 -->
-
-<!-- Maybe a table of contents here? 📚 -->
-
-<!-- How about a section that describes how to install this project? 🤓 -->
-
-<!-- ...but how does one use this project? What are its features 🤔 -->
-
-<!-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅ -->
-
-<!-- How about a license here? 📜 (or is it a licence?) 🤷 -->
+## :cop: License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+This project from [Ralf](https://github.com/ralfz123) has a [MIT © License](https://github.com/ralfz123/human-centered-design-2021/blob/main/LICENSE)
