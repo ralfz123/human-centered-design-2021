@@ -4,7 +4,7 @@
 # Closed Captions 👂 ❌
 _Human Centered Design, a course of the minor Web Design & Development. It is a minor of the third year from the study [CMD](https://www.cmd-amsterdam.nl/)._
 
-[Link to live version :rocket: :fire:](staticsite.com)
+[Link to live version :rocket: / does not work yet](https://ralfz123.github.io/human-centered-design-2021/final/)
 
 ### Table of Contents
 <table>
@@ -12,7 +12,7 @@ _Human Centered Design, a course of the minor Web Design & Development. It is a 
         <td align="center"><a href="#rocket-purpose">🚀 Purpose<a></td>
         <td align="center"><a href="#heart_eyes-concept">😍 Concept<a></td>
         <td align="center"><a href="#nerd_face-techstuff">🤓 TechStuff<a></td>
-        <td align="center"><a href="#lipstick-codestyle">🤓 CodeStyle<a></td>
+        <td align="center"><a href="#lipstick-codestyle">💄 CodeStyle<a></td>
         <td align="center"><a href="#1234-data">🔢 Data<a></td>
         <td align="center"><a href="#gear-installation">⚙️ Installation<a></td>
         <td align="center"><a href="#file_folder-sources">📁 Sources<a></td>
@@ -21,6 +21,8 @@ _Human Centered Design, a course of the minor Web Design & Development. It is a 
 </table>
 
 ## :rocket: Purpose
+❗ Readme: In de beschrijving van het project staat de opdracht uitgelegd, is het probleem duidelijk beschreven en hoe het probleem is opgelost. 
+
 > What distinguishes Human-Centered Design from other problem-solving approaches is its obsessive focus on understanding the perspective of the person who experiences a problem, their needs, and whether the solution that has been designed for them is truly meeting their needs effectively or not. At its most effective, the very people who experience a problem the most are a constant part of the design process and when possible, become part of the design team itself. - [What Is Human-Centered Design?](https://medium.com/dc-design/what-is-human-centered-design-6711c09e2779)
 
 Door regelmatig te testen met je doelgroep kom je tot een beter en passend ontwerp. Een Frontend Designer en Developer heeft verstand van techniek, UX en design. Als je web technieken beheerst kun je je ideeën snel prototypen en testen in een browser. Je kan dan aanpassingen doorvoeren, uitproberen en weer testen ...
