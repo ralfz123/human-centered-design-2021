@@ -1,0 +1,76 @@
+/* ------------------------------------------- */
+/*                   OVERALL                   */
+/* ------------------------------------------- */
+
+html {
+  --color-white: #494949;
+  --color-background: #120928;
+
+  --max-content-width: 70rem;
+  --font-body: 'Poppins', sans-serif;
+
+  /* font-size: calc(60% + 0.8vmin); */
+  /* -webkit-text-size-adjust: 100%; */
+  height: 100%;
+}
+
+:root {
+  background: var(--color-background);
+  background: #eeeeee;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  /* font-size: 1rem; */
+  font-weight: 300;
+  color: var(--color-white);
+  font-family: var(--font-body);
+}
+
+body {
+  text-align: center;
+}
+
+header {
+  margin: 1em 0;
+}
+
+main a {
+  display: block;
+  width: 100%;
+}
+
+button {
+  padding: 0.5em;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 0.4em;
+  font-size: 0.9rem;
+}
+
+video {
+  width: 80%;
+}
+
+/* eq */
+canvas {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  /* transform: scale(1.5); */
+  /* transform-origin: bottom right; */
+  display: block;
+  width: 9%;
+  background: rgb(149, 13, 40);
+  /* margin: 0 auto; */
+  /* text-align: center; */
+  clip-path: circle(50%);
+}
