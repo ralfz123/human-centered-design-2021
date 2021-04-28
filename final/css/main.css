@@ -23,7 +23,7 @@ body {
   text-align: center;
   transition: 0.1s ease-in-out;
   margin: 0 auto;
-  overflow-y: scroll;
+  overflow-y: hidden;
   overflow-x: hidden;
   /* max-width: var(--max-content-width);
   padding: 1rem; */
@@ -42,7 +42,7 @@ body.dark-mode {
 header a.dark-mode,
 footer a.dark-mode {
   color: white;
-  transition: .1s ease-in-out;
+  transition: 0.1s ease-in-out;
 }
 
 header {
@@ -78,12 +78,15 @@ body header button {
   right: 1vw;
 }
 
-body main button:nth-child(2) {
-  background-image: url(../assets/play.png);
-}
-
 body main button:nth-child(3) {
-  background-image: url(../assets/pause.png);
+  background-image: url(../assets/play.png);
+  position: absolute;
+  padding: 3em;
+  top: 35%;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 button:hover,
@@ -94,7 +97,6 @@ button:active {
   color: crimson;
   border-radius: 5px;
   box-shadow: 0 0 7px 0px black;
-  transform: scale(1.05);
 }
 
 button.dark-mode {
@@ -118,16 +120,17 @@ video {
 
 body main div div {
   position: absolute;
-  bottom: 12px;
+  /* bottom: 118px; */
+  bottom: 27%;
   display: block;
-  width: 50px;
-  height: 50px;
-  right: 26vw;
-  background: #970925;
+  width: 25px;
+  height: 25px;
+  right: 25.6vw;
+  background: #ec5656;
   clip-path: circle(50% at 50% 50%);
   background-image: url(../assets/music-note.png);
   background-repeat: no-repeat;
-  background-size: 30px;
+  background-size: 14px;
   background-position-x: center;
   background-position-y: center;
 }
@@ -135,18 +138,10 @@ body main div div {
 /* eq */
 canvas {
   position: absolute;
-  /* bottom: 14%; */
-  /* bottom: 6vw; */
   bottom: 1vw;
-  /* left: 10%; */
   left: 25vw;
-  /* transform: scale(1.5); */
-  /* transform-origin: bottom right; */
   display: block;
-  /* width: 9%; */
   width: 5%;
-  background: rgb(149, 13, 40);
-  /* margin: 0 auto; */
-  /* text-align: center; */
   clip-path: circle(50%);
+  padding: 8px;
 }

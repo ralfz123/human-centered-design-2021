@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const canvas = document.querySelector('canvas');
       canvas.width = 300;
       canvas.height = 300;
+      canvas.style.backgroundColor = '#EC5656';
 
       // Set context object
       const ctx = canvas.getContext('2d');
@@ -34,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const HEIGHT = canvas.height;
 
       // Set the width of a single bar
-      const barWidth = (WIDTH / bufferLength) * 1.5;
+      const barWidth = (WIDTH / bufferLength) * 5.5;
       let barHeight;
       let x = 0;
 
@@ -55,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
           // ctx.globalAlpha = 1;
 
-          ctx.fillStyle = 'rgba(255,255,255, 0.5)';
+          ctx.fillStyle = 'rgba(255,255,255, 0.9)';
           ctx.fillRect(x, HEIGHT - barHeight, barWidth, barHeight);
 
           x += barWidth + 15;

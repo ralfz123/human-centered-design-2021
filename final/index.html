@@ -4,12 +4,12 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>🎥</title>
+    <title>Closed Captions 🎥</title>
     <link rel="stylesheet" href="css/main.css" />
   </head>
   <body>
     <header>
-      <h1>Closed Captions - Darice de la Cuba</h1>
+      <h1>Closed Captions - Darice de Cuba</h1>
       <h2>
         <a
           href="https://www.youtube.com/watch?v=kJAaT13EMvA&ab_channel=ViraLScreenS"
@@ -23,7 +23,7 @@
 
     <main>
       <div style="position: relative">
-        <video controls>
+        <video>
           <source src="video/edge-of-tomorrow-trailer.mp4" type="video/mp4" />
           <track
             kind="captions"
@@ -34,13 +34,27 @@
           />
         </video>
         <canvas></canvas>
+        <article
+          style="
+            display: block;
+            background: red;
+            width: 10vw;
+            padding: 1em;
+            position: absolute;
+            bottom: 15%;
+            right: 28.4%;
+            font-size: 0.5rem;
+            text-align: left;
+          "
+        >
+          <p>genre</p>
+          <p> <span>Artist:</span> blabla </p>
+          <p> <span>Track:</span> jopie topie </p>
+        </article>
+        <button class="play-btn" onclick="playVid()"></button>
+        <!-- <button class="pause-btn"></button> -->
       </div>
-
-      <button class="play-btn" onclick="playVid()"></button>
-      <button class="pause-btn"></button>
     </main>
-
- 
 
     <footer>
       <p>

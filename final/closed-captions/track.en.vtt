@@ -30,19 +30,28 @@ STYLE
 }
 
 STYLE
+::cue(i.genre) {
+  color:#EC5656;  
+  font-size: .9rem;
+}
+
+
+STYLE
 ::cue(i.music) {
-color: #4f4f4f; 
+  color: #949494;
+  font-size: .6rem;
 }
 
 STYLE
 ::cue(i.keys) {
-  color: #949494
+  color: #d4d4d4;
 }
 
 STYLE
 ::cue(s) {
-  color: white
-  font-size: 100%
+  color: white;
+  font-size: 100%;
+  background-color: red;
 }
 
 STYLE
@@ -57,19 +66,13 @@ font-weight: bold
 }
 
 
-NOTE Music subtitles---------------------------------------------------------------
 
-00:00:00.000 --> 00:00:39.500 align:end size:30% line:16
-<s> Mysterious music <i.music>  <i.keys>Track:</i> Never gonna <i.keys>Artist:</i> Rick Astley </i>  </s>
-
-00:00:42.000 --> 00:00:50.000 align:end size:40% line:16
-<s> <p>Mysterious music</p> </s>
 
 
 
 NOTE Sound Subtitles---------------------------------------------------------------
 
-00:00:08.000 --> 00:00:10.000 align:middle line:16
+00:00:08.000 --> 00:00:10.000 align:middle line:16 size:80%
 [gunfire sounds]
 
 00:00:10.000 --> 00:00:12.000 align:middle line:16
@@ -84,51 +87,66 @@ NOTE Sound Subtitles------------------------------------------------------------
 00:00:39.500 --> 00:00:40.500 align:middle line:16
 [EXPLOSION SOUND]
 
-00:01:01.900 --> 00:01:03.000
+00:01:01.900 --> 00:01:03.000 align:middle line:16
 [machine gun sound]
 
 
 
 NOTE Text Subtitles---------------------------------------------------------------
 
-00:00:00.050 --> 00:00:03.000 line:10
+00:00:00.050 --> 00:00:03.000 line:16
 <s> <i.tom>Tom:</i> We have to go. This dropship is about to explode.</s>
 
-00:00:03.300 --> 00:00:04.500
+00:00:03.300 --> 00:00:04.500 line:16
 <s> <i.tom>Tom:</i> We have to go now!</s>
 
-00:00:05.500 --> 00:00:06.000
+00:00:05.500 --> 00:00:06.000 line:16
 <s> <i.tom>Tom:</i> Wait!</s>
 
-00:00:13.000 --> 00:00:14.000
+00:00:13.000 --> 00:00:14.000 line:16
 <s> <i.tom>Tom:</i> Come on!</s>
 
-00:00:24.500 --> 00:00:25.500
+00:00:24.500 --> 00:00:25.500 line:16
 <s> <i.tom>Tom:</i> Come on!</s>
 
-00:00:29.500 --> 00:00:30.000
+00:00:29.500 --> 00:00:30.000 line:16
 <s> <i.tom>Tom:</i> <b> Come on! </b> </s>
 
-00:00:31.000 --> 00:00:33.000
+00:00:31.000 --> 00:00:33.000 line:16
 <s> <i.tom>Tom:</i> This ship is going to <b>explode</b>! </s>
 
-00:00:34.000 --> 00:00:35.000
+00:00:34.000 --> 00:00:35.000 line:16
 <s> <i.tom>Tom:</i> What are you <b>doing?!</b> </s>
 
-00:00:35.500 --> 00:00:37.000
+00:00:35.500 --> 00:00:37.000 line:16
 <s> <i.elisa>Elisa:</i> Find me when you wake up. </s>
 
-00:00:38.000 --> 00:00:38.500
+00:00:38.000 --> 00:00:38.500 line:16
 <s> <i.tom>Tom:</i> <b>What?</b> </s>
 
-00:00:38.600 --> 00:00:40.000
+00:00:38.600 --> 00:00:40.000 line:16
 <s> <i.elisa>Elisa:</i> Come find me when you wake up! </s>
 
-00:00:59.500 --> 00:01:01.000
+00:00:59.500 --> 00:01:01.000 line:16
 <s> <i.leroy>Leroy: </i> I'm Link Nents. </s>
 
-00:01:01.000 --> 00:01:03.000
+00:01:01.000 --> 00:01:03.000 line:16
 <s> <i.elisa>Elisa:</i> Fivehundred meter is the closing fast! </s>
 
-00:01:03.500 --> 00:01:04.500
+00:01:03.500 --> 00:01:04.500 line:16
 <s> <i.elisa>Elisa:</i> <b>What the!</b> </s>
+
+
+NOTE Music subtitles---------------------------------------------------------------
+
+00:00:00.000 --> 00:00:39.500 line:9 position:74% align:left size:30%
+<s> <i.music><i.genre> Mysterious music </i>  
+    <i.keys>Track:</i> Heart of Courage 
+    <i.keys>Artist:</i> Two Steps from Hell  </i>  
+</s>
+
+00:00:42.000 --> 00:01:04.500 line:9 position:74% align:left size:25%
+<s> <i.music><i.genre> Excitement music </i>  
+    <i.keys>Track:</i> Intro 
+    <i.keys>Artist:</i> The xx</i>  
+</s>
