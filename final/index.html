@@ -18,28 +18,29 @@
           Video: Edge of Tomorrow</a
         >
       </h2>
+      <button onclick="darkModeToggle()"></button>
     </header>
 
     <main>
       <div style="position: relative">
-        <video controls >
-          <source src="edge-of-tomorrow-trailer.mp4" type="video/mp4" />
+        <video controls>
+          <source src="video/edge-of-tomorrow-trailer.mp4" type="video/mp4" />
           <track
             kind="captions"
             label="English"
-            src="track.en.vtt"
+            src="closed-captions/track.en.vtt"
             srclang="en"
             default
           />
         </video>
         <canvas></canvas>
       </div>
+
+      <button class="play-btn" onclick="playVid()"></button>
+      <button class="pause-btn"></button>
     </main>
 
-    <button class="play-btn">PLAY</button>
-    <button class="pause-btn">PAUSE</button>
-
-    
+ 
 
     <footer>
       <p>
@@ -51,7 +52,7 @@
         >
       </p>
     </footer>
-    <!-- <script src="js/main.js"></script> -->
+    <script src="js/main.js"></script>
     <script src="js/eq.js"></script>
   </body>
 </html>
