@@ -20,6 +20,10 @@ function playVid() {
   setTimeout(function () {
     container.style.display = 'none';
   }, 64500);
+
+  setTimeout(function () {
+    playBtn.style.display = 'block';
+  }, 67500);
 }
 
 function darkModeToggle() {

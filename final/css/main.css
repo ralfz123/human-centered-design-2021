@@ -61,7 +61,6 @@ button {
   border: 4px solid #595959;
   transition: 0.2s;
   background: white;
-  /* width: 100px; */
   margin: 17px 0px;
   width: 30px;
   height: 30px;
@@ -74,7 +73,7 @@ button {
 body header button {
   background-image: url(../assets/dark-mode.svg);
   position: absolute;
-  top: 1vw;
+  top: 0;
   right: 1vw;
 }
 
@@ -139,7 +138,7 @@ body main div div {
 canvas {
   position: absolute;
   bottom: 1vw;
-  left: 25vw;
+  left: 25.5vw;
   display: block;
   width: 5%;
   clip-path: circle(50%);
