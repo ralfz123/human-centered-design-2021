@@ -7,7 +7,7 @@ _Human Centered Design, a course of the minor Web Design & Development. It is a 
 ## Opdracht
 Human Centered Design is een methode voor het ontwerpen van gebruiksvriendelijke interactieve toepassingen.
 
-Voor dit vak krijgen we een ontwerp-opdracht die we gaan maken voor 1 specifiek persoon. Wij moeten ons ontwerp 3 keer laten testen door deze gebruiker. Door te testen en te itereren zullen we ons concept verbeteren en meer specifiek voor de persoon maken. Uiteindelijk hebben we een ontwerp dat exclusief gemaakt is voor deze ene persoon. Een exclusive design ... Wie is deze persoon dan voor wie je dit gaat maken? Wat vindt deze persoon leuk of juist niet? En hoe bedient deze persoon een computer? Dit lees je hieronder.
+Voor dit vak krijgen we een ontwerp-opdracht die we gaan maken voor 1 specifiek persoon. Wij moeten ons ontwerp 3 keer laten testen door deze gebruiker. Door te testen en te itereren zullen we ons concept verbeteren en meer specifiek voor de persoon maken. Uiteindelijk hebben we een ontwerp dat exclusief gemaakt is voor deze ene persoon. Een exclusive design... Wie is deze persoon dan voor wie je dit gaat maken? Wat vindt deze persoon leuk of juist niet? En hoe bedient deze persoon een computer? Dit lees je hieronder.
 
 ## Probleem
 Voor Darice gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan. Darice mist de ervaring en volgens haar ook soms enige geluiden die niet in beeld zijn, maar zich wel op de achtergrond bevinden.
@@ -17,6 +17,8 @@ De oplossing voor dit probleem is een mooie manier van het weergeven van Closed 
 
 ## Live Link :rocket:
 [Link naar live prototype](https://ralfz123.github.io/human-centered-design-2021/final/)
+
+<img src="https://github.com/ralfz123/human-centered-design-2021/wiki/img/final/music.png" width="700px" />
 
 ## Testen
 _Klik hieronder voor de 3 testrapporten._
@@ -39,10 +41,10 @@ Omdat Darice niks wil missen van de film en de spanning ervan, is het nu juist z
 
 ## Exclusive Design Principles
 ### Study Situation
-Het is van hoge nood om echt goed te weten wat Darice nodig heeft om haar films en podcasts goed te kunnen volgen. Omdat wij haar huidige situatie willen verbeteren, betekent het dat wij die situatie wel tot in de puntjes begrijpen en weten. Dit is al erg gedaan in de eerste test waarin wij vragen hoe zij hier nu mee omgaat, wat de plus- en minpunten ervan zijn en hoe zij het graag anders ziet.
+Het is van hoge nood om echt goed te weten wat Darice nodig heeft om haar films en podcasts goed te kunnen volgen. Omdat wij haar huidige situatie willen verbeteren, betekent het dat wij die situatie wel tot in de puntjes begrijpen en weten. Daarom moeten wij bijna in haar huid kruipen om te beleven wat zij ervaart. Dit is al erg gedaan in de eerste test waarin wij vragen hoe zij hier nu mee omgaat, wat de plus- en minpunten ervan zijn en hoe zij het graag anders ziet. Natuurlijk kun je het zelf ook ervaren door je koptelefoon op te doen en het geluid uit te zetten en de film te bekijken. Dan kun je pas analyseren wat je mist in de film.
 
 #### Toepassing
-Darice heeft erg moeite met het begrijpen van films aan de hand van Closed Captions. De makers van films en platformen houden niet erg rekening met dove mensen. Daarom is het voor Darice heel moeilijk om bepaalde delen van een film te snappen, omdat de CC gewoonweg niet duidelijk genoeg zijn omschreven voor haar.
+Darice heeft erg moeite met het begrijpen van films aan de hand van Closed Captions. De makers van films en platformen houden niet erg rekening met dove mensen. Daarom is het voor Darice heel moeilijk om bepaalde delen van een film te snappen, omdat de CC gewoonweg niet duidelijk genoeg en te neutraal zijn omschreven voor haar. Ze mist de spanning.
 
 [Uitwerking](https://github.com/ralfz123/human-centered-design-2021/wiki/Final#study-situation)
 
