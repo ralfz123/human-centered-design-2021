@@ -16,7 +16,7 @@ Voor Darice gaat er enorm veel nuance verloren tijdens het kijken naar een film 
 De oplossing voor dit probleem is een mooie manier van het weergeven van Closed Captions waardoor het voor Darice makkelijk te te onderscheiden is wie er praat, hoeveel verschillende sprekers er in de film zitten, wat voor soort muziek er speelt en de informatie over die muziek, welke (achtergrond)geluiden er spelen en wat de toonhoogte van het volume is in de film door middel van een equalizer.
 
 ## Live Link :rocket:
-[Link to live version :rocket:](https://ralfz123.github.io/human-centered-design-2021/final/)
+[Link naar live prototype](https://ralfz123.github.io/human-centered-design-2021/final/)
 
 ## Testen
 _Klik hieronder voor de 3 testrapporten._
