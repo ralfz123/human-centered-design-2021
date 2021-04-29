@@ -10,9 +10,10 @@ Human Centered Design is een methode voor het ontwerpen van gebruiksvriendelijke
 Voor dit vak krijgen we een ontwerp-opdracht die we gaan maken voor 1 specifiek persoon. Wij moeten ons ontwerp 3 keer laten testen door deze gebruiker. Door te testen en te itereren zullen we ons concept verbeteren en meer specifiek voor de persoon maken. Uiteindelijk hebben we een ontwerp dat exclusief gemaakt is voor deze ene persoon. Een exclusive design ... Wie is deze persoon dan voor wie je dit gaat maken? Wat vindt deze persoon leuk of juist niet? En hoe bedient deze persoon een computer? Dit lees je hieronder.
 
 ## Probleem
-❗ Probleem duidelijk beschreven 
+Voor Darice gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan. Darice mist de ervaring en volgens haar ook soms enige geluiden die niet in beeld zijn, maar zich wel op de achtergrond bevinden.
+
 ## Oplossing
-❗ Hoe het probleem is opgelost
+De oplossing voor dit probleem is een mooie manier van het weergeven van Closed Captions waardoor het voor Darice makkelijk te te onderscheiden is wie er praat, hoeveel verschillende sprekers er in de film zitten, wat voor soort muziek er speelt en de informatie over die muziek, welke (achtergrond)geluiden er spelen en wat de toonhoogte van het volume is in de film door middel van een equalizer.
 
 ## Live Link :rocket:
 [Link to live version :rocket:](https://ralfz123.github.io/human-centered-design-2021/final/)
@@ -34,19 +35,16 @@ Darice de Cuba is een 29 jarige Front-end Developer die op haar 26e doof is gewo
 
 Darice wil niks van de podcast/film missen en zit dan dus op het puntje van haar stoel om alles te volgen wat er gezegd wordt. Maar dit gaat moeilijk, omdat niet alle bedrijven er rekening mee houden dat er ook dove mensen aan het kijken zijn. Daarom wil Darice een feature dat zij zonder moeite naar een film kan kijken en de hele experience net zo kan ervaren als een niet-doof persoon.
 
-### Wie
-### Wat
-### Hoe
-### Waarom
-## Exclusive Design Principles
+Omdat Darice niks wil missen van de film en de spanning ervan, is het nu juist zo moeilijk voor haar om die complete ervaring te krijgen. Aspecten zoals achtergrondgeluiden, muziek en sprekers mist zij soms.
 
+## Exclusive Design Principles
 ### Study Situation
 Het is van hoge nood om echt goed te weten wat Darice nodig heeft om haar films en podcasts goed te kunnen volgen. Omdat wij haar huidige situatie willen verbeteren, betekent het dat wij die situatie wel tot in de puntjes begrijpen en weten. Dit is al erg gedaan in de eerste test waarin wij vragen hoe zij hier nu mee omgaat, wat de plus- en minpunten ervan zijn en hoe zij het graag anders ziet.
 
 #### Toepassing
 Darice heeft erg moeite met het begrijpen van films aan de hand van Closed Captions. De makers van films en platformen houden niet erg rekening met dove mensen. Daarom is het voor Darice heel moeilijk om bepaalde delen van een film te snappen, omdat de CC gewoonweg niet duidelijk genoeg zijn omschreven voor haar.
 
-[Uitwerking]()
+[Uitwerking](https://github.com/ralfz123/human-centered-design-2021/wiki/Final#study-situation)
 
 ### Ignore Conventions
 Het zit al in de tite; conventiens. In dit vakgebied zijn een aantal conventies/standaarden vastgesteld waar elke designer zich aan hoort te houden, zodat het voor iedere gebruiker fijn is om een ontwerp te gebruiken. Als dit consistent door designers wordt toegepast, hoeven alle gebruikers uiteindelijk niet meer te zoeken naar een zoekbalk bijvoorbeeld, want die staat bijna altijd rechtsbovenaan.
@@ -56,7 +54,7 @@ Tijdens dit project is het de bedoeling dat we juist _niet_ naar deze standaarde
 #### Toepassing
 Echter is Darice _niet_ goed in het negeren van de standaarden. Ze wil _juist_ de richtlijnen van UI design bijvoorbeeld naleven, omdat zij als frontender het ook belangrijk vindt dat het voor _iedereen_ toegankelijk moet zijn. Maar omdat het juist alleen voor Darice is, hoeven we niet naar de standaarden te luisteren.
 
-[Uitwerking]()
+[Uitwerking](https://github.com/ralfz123/human-centered-design-2021/wiki/Final#ignore-conventions)
 
 ### Prioritise Identity
 Normaliter maak je een product voor een doelgroep (minimaal 10 mensen). Maar nu maken we een product voor 1 persoon; _tailor made_. De identiteit van een persoon gaat voorop. Wat zijn haar verlangens, verwachtingen en misschien wel behoeftes? Het is dan ook de bedoeling dat je probeert het hele product op de identiteit van de gebruiker te richten. 
@@ -64,14 +62,14 @@ Normaliter maak je een product voor een doelgroep (minimaal 10 mensen). Maar nu 
 #### Toepassing
 Darice houdt erg van minimalistisch design. Less Is More is dan ook een principe wat ik haar vaak heb horen zeggen. Ze wil het liefst dat het product dan ook voor iedereen toegankelijk is, maar dat is niet de essentie van deze opdracht. Het is alleen puur voor Darice.
 
-[Uitwerking]()
+[Uitwerking](https://github.com/ralfz123/human-centered-design-2021/wiki/Final#prioritise-identity)
 ### Add Nonsense
 Zowel elke designer maakt wel is mee dat hij vol zit met ideeën voor een product, maar dat hij/zij ze laat zitten en niet in het product verwerkt omdat ze een beetje "anders zijn dan de rest". Misschien vindt de gebruiker het wel helemaal niks? Misschien gaat de gebruiker mijn product niet meer gebruiken dan? De essentie bij deze opdracht is dan dat je **juist** gebruik moet maken van deze ideeën. Want je kan deze ideeën dan testen op de testpersoon om te kijken of ze wel echt werken of juist niet. Als gevolg kunnen hier interessante concepten uit rollen.
 
 #### Toepassing
 Bij Darice was dit erg moeilijk, omdat zij graag de UI Guidelines wil volgen en daarbij horen geen nonsense dingen. Tevens hield ze van minimalistisch design, dus overbodige dingen in het scherm moest ik meteen schrappen.
 
-[Uitwerking]()
+[Uitwerking](https://github.com/ralfz123/human-centered-design-2021/wiki/Final#add-nonsense)
 
 
 ## Conclusie/reflectie op leerdoelen 
@@ -96,6 +94,8 @@ Credits to [Vasilis](https://www.vasilis.nl/) && [Koop Reynders](https://github.
 This project from [Ralf](https://github.com/ralfz123) has a [MIT © License](https://github.com/ralfz123/human-centered-design-2021/blob/main/LICENSE)
 
 <!-- 
+************************************************************************************************************
+
 > What distinguishes Human-Centered Design from other problem-solving approaches is its obsessive focus on understanding the perspective of the person who experiences a problem, their needs, and whether the solution that has been designed for them is truly meeting their needs effectively or not. At its most effective, the very people who experience a problem the most are a constant part of the design process and when possible, become part of the design team itself. - [What Is Human-Centered Design?](https://medium.com/dc-design/what-is-human-centered-design-6711c09e2779) -->
 
 <!-- ### Table of Contents
