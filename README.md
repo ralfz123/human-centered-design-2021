@@ -5,15 +5,14 @@
 _Human Centered Design, a course of the minor Web Design & Development. It is a minor of the third year from the study [CMD](https://www.cmd-amsterdam.nl/)._
 
 ## Opdracht
-❗ Opdracht uitgelegd
+Human Centered Design is een methode voor het ontwerpen van gebruiksvriendelijke interactieve toepassingen.
+
+Voor dit vak krijgen we een ontwerp-opdracht die we gaan maken voor 1 specifiek persoon. Wij moeten ons ontwerp 3 keer laten testen door deze gebruiker. Door te testen en te itereren zullen we ons concept verbeteren en meer specifiek voor de persoon maken. Uiteindelijk hebben we een ontwerp dat exclusief gemaakt is voor deze ene persoon. Een exclusive design ... Wie is deze persoon dan voor wie je dit gaat maken? Wat vindt deze persoon leuk of juist niet? En hoe bedient deze persoon een computer? Dit lees je hieronder.
+
+## Probleem
 ❗ Probleem duidelijk beschreven 
+## Oplossing
 ❗ Hoe het probleem is opgelost
-
-Door regelmatig te testen met je doelgroep kom je tot een beter en passend ontwerp. Een Frontend Designer en Developer heeft verstand van techniek, UX en design. Als je web technieken beheerst kun je je ideeën snel prototypen en testen in een browser. Je kan dan aanpassingen doorvoeren, uitproberen en weer testen ...
-
-In het vak Human Centered Design gaan we dingen ontwerpen voor echte mensen. Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? Wat voor principes heb je gebruikt en getest? En is het leuk?
-
-Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een echt mens. Je moet je ontwerp 3 keer testen. Door te testen en te itereren ga je je ontwerp verbeteren. Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 persoon. Een _exclusive design_ ... Wie is deze persoon dan voor wie je dit gaat maken? Wat vindt deze persoon leuk of juist niet? En hoe bedient deze persoon een computer?
 
 ## Live Link :rocket:
 [Link to live version :rocket:](https://ralfz123.github.io/human-centered-design-2021/final/)
@@ -78,11 +77,15 @@ Bij Darice was dit erg moeilijk, omdat zij graag de UI Guidelines wil volgen en 
 ## Conclusie/reflectie op leerdoelen 
 Dit project was best een lastig project, omdat je je moest focussen op één persoon en soms moest luisteren naar wat zij zei, ookal ben je het er niet mee eens. Dat was soms lastig, maar als ontwerper ging ik dan voor mijzelf na wat de prioriteit heeft en wat niet. 
 
-Bovendien hebben we echt geleerd nog beter te testen. We wisten natuurlijk wat testen was en hoe het moet, omdat we dit al echt vaker gedaan hebben, maar niet dat je in zo'n korte tijd een persoon kan leren kennen tot aan het opleveren van een product. Daarbij was het wel echt van belang dat je je aandachtig voorbereidde op de test en dat je van tevoren wist wat je wilde testen en waar je feedback op wilde hebben. Echter hadden we maar 3 testmomenten, waarvan we voor het 1e testmoment erg weinig voorbereiding hadden. Ook duurde elk testmoment maar 10 minuten. Dit was best lastig, want het liefst had ik 10 testmomenten.
+Allereerst vond ik het even zoeken naar wat de link was van de Exclusive Design Principes en de opdracht. Hoe moeten deze samenhangen en in welke mate? Door met mijn teamgenoten hier het over gehad te hebben en zelf nagegaan wat deze principes betekenen, is het voor mij helder geworden wat deze principes voor doel hebben in de opdracht, namelijk: zo exclusief mogelijk design maken voor die ene persoon. Zoals hierboven heb ik alle principes en hun uitwerking in het prototype uitgeschreven.
 
-Ook was het moeilijk om voor Darice een (out-of-the-box) concept te creëren, omdat zij zelf ook een designer en developer is en ze weet heel goed wat zij wil. Haar feedback was meestal al een richting die zij ons gaf om op te gaan en zo was het voor ons moeilijk om een eigen richting te kiezen.
+Vervolgens ging ik kijken naar wie is mijn testpersoon eigenlijk. Wat zijn haar verlangens en behoeftes? Wat wil zij wel en absoluut niet zien in het ontwerp? Daarom heb ik voor de eerste test een "kennismakingstest" gemaakt waarin ik erachter kom hoe Darice haar huidige situatie is. Op basis daarvan probeerde ik deze inzichten mee te nemen in mijn ontwerp, zodat Darice zich helemaal thuis voelt met het ontwerp, omdat haar identiteit erin is verwerkt.
 
-Hoewel ik het een intensief project vind, vind ik het ook zeer interessant en ik heb echt geleerd nog beter te testen. Ik vond het ook leuk om echt voor één persoon een product te maken, want ik kon me dan zo goed focussen op wat die _ene_ persoon wilde.
+Bovendien hebben we echt geleerd nog beter te testen. We wisten natuurlijk wat testen was en hoe het moet, omdat we dit al echt vaker gedaan hebben, maar niet dat je in zo'n korte tijd een persoon kan leren kennen tot aan het opleveren van een product. Daarbij was het wel echt van belang dat je je aandachtig voorbereidde op de test en dat je van tevoren wist wat je wilde testen en waar je feedback op wilde hebben. Echter hadden we maar 3 testmomenten, waarvan we voor het 1e testmoment erg weinig voorbereiding hadden. Ook duurde elk testmoment maar 10 minuten. Dit was best lastig, want het liefst had ik 10 testmomenten gehad. Wel kwamen er bij elke test bijzondere inzichten en resultaten uit die zowel voor mijn teamleden als mij erg handig waren voor het itereren van het ontwerp. Op deze manier kon ik mijn ontwerp weer verbeteren en dichterbij de behoeftes van de testpersoon krijgen.
+
+Ook was het moeilijk om voor Darice een (out-of-the-box) concept te creëren, omdat zij zelf ook een designer en developer is en ze weet heel goed wat zij wil. Haar feedback was meestal al een richting die zij ons gaf om op te gaan en zo was het voor ons moeilijk om een eigen richting te kiezen. Toch heb ik geprobeerd om haar "van het pad af" te laten wijken, maar ze wist maar al te goed wat ze wilde. Natuurlijk heb ik onzin dingen geprobeerd te testen of dingen die ik daarvoor nooit zou ontwerpen/testen. Daar zijn hele interessante inzichten uitgekomen.
+
+Hoewel ik het een intensief project vind, vind ik het ook zeer interessant en ik heb echt geleerd nog beter te testen. Ik vond het ook leuk om echt voor één persoon een product te maken, want ik kon me dan zo goed focussen op wat die _ene_ persoon wilde. Het lijkt me gaaf om in de toekomst hier meer aandacht aan te besteden, omdat ik het best erg vind dat dit soort mensen "uit de boot" vallen als zij bijvoorbeeld naar een film willen kijken waar geen CC bij zit. Het Web is voor iedereen. zoals Tim Berners Lee dat zei, dus dat geldt ook voor ons als designers en developers.
 
 ## :file_folder: Sources
 Credits to [Vasilis](https://www.vasilis.nl/) && [Koop Reynders](https://github.com/KoopReynders) for giving interesting lectures about Human Centered Design and how to deal with it.
