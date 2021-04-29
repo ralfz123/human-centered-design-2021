@@ -47,12 +47,12 @@ Darice heeft erg moeite met het begrijpen van films aan de hand van Closed Capti
 [Uitwerking](https://github.com/ralfz123/human-centered-design-2021/wiki/Final#study-situation)
 
 ### Ignore Conventions
-Het zit al in de tite; conventiens. In dit vakgebied zijn een aantal conventies/standaarden vastgesteld waar elke designer zich aan hoort te houden, zodat het voor iedere gebruiker fijn is om een ontwerp te gebruiken. Als dit consistent door designers wordt toegepast, hoeven alle gebruikers uiteindelijk niet meer te zoeken naar een zoekbalk bijvoorbeeld, want die staat bijna altijd rechtsbovenaan.
+Het zit al in de titel; conventiens. In dit vakgebied zijn een aantal conventies/standaarden vastgesteld waar elke designer zich aan hoort te houden, zodat het voor iedere gebruiker fijn is om een ontwerp te gebruiken. Als dit consistent door designers wordt toegepast, hoeven alle gebruikers uiteindelijk niet meer te zoeken naar een zoekbalk bijvoorbeeld, want die staat bijna altijd rechtsbovenaan.
 
 Tijdens dit project is het de bedoeling dat we juist _niet_ naar deze standaarden gaan luisteren, omdat het product dat wij gaan maken **tailor made** is voor Darice. Daarom zullen niet alle standaarden voor haar werken en wordt er van ons als designers verwacht dat we daar oplossingen voor creëren.
 
 #### Toepassing
-Echter is Darice _niet_ goed in het negeren van de standaarden. Ze wil _juist_ de richtlijnen van UI design bijvoorbeeld naleven, omdat zij als frontender het ook belangrijk vindt dat het voor _iedereen_ toegankelijk moet zijn. Maar omdat het juist alleen voor Darice is, hoeven we niet naar de standaarden te luisteren.
+Echter is Darice _niet_ goed in het negeren van de standaarden. Ze wil _juist_ de richtlijnen van UI design bijvoorbeeld naleven, omdat zij als frontender het ook belangrijk vindt dat het voor _iedereen_ toegankelijk moet zijn. Maar omdat dit ontwerp juist alleen voor Darice is, hoeven we niet naar de standaarden te luisteren. Echter is dit wel onwijs moelijk, want als ik haar een ontwerp voorlegde die afwijkte van de standaarden, stuurde ze me in een richting van de standaard conventies.
 
 [Uitwerking](https://github.com/ralfz123/human-centered-design-2021/wiki/Final#ignore-conventions)
 
